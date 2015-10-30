@@ -17,6 +17,11 @@ directory with:
 
 	runApp(appDir)
 
+Or you can avoid downloading the app files to your 
+local machine by starting the app directly from GitHub with:
+
+	runGitHub("Azure/Azure-MachineLearning-CustomModuleDefinition-App")
+
 If you are running on Windows, you must make sure you have
 zip capabilities enabled. The easiest way to ensure this is
 to install RTools from
@@ -24,3 +29,4 @@ to install RTools from
 	https://cran.r-project.org/bin/windows/Rtools/
 
 and then uncomment line 3 from server.R .
+
