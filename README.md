@@ -1,3 +1,5 @@
+> **NOTE** This content is no longer maintained. Visit the [Azure Machine Learning Notebook](https://github.com/Azure/MachineLearningNotebooks) project for sample Jupyter notebooks for ML and deep learning with Azure Machine Learning.
+
 Author: Antonia Miruna Oprescu
 Setup instructions:
 
